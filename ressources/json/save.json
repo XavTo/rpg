@@ -1,0 +1,14 @@
+[
+	{
+		"id": 1,
+		"map": "ressources/json/map2.json",
+		"raccoon_pos.x": 599,
+		"raccoon_pos.y": 279,
+		"png_x": ,
+		"png_y": ,
+		"key": "false",
+		"boot": "true",
+		"sword": "true",
+		"door": "true",
+	},
+]
